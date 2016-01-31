@@ -490,7 +490,7 @@ void SendCoinsDialog::updateDisplayUnit()
          else if (!CBitcoinAddress(text.toStdString()).IsValid())
          {
              ui->labelCoinControlChangeLabel->setStyleSheet("QLabel{color:red;}");
-             ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid digitalasset address"));
+             ui->labelCoinControlChangeLabel->setText(tr("WARNING: Invalid Digitalasset address"));
          }
          else
          {

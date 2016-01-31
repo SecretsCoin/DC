@@ -5,15 +5,15 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About digitalasset</source>
+        <source>About Digitalasset</source>
         <translation type="obsolete">关于数字资产币</translation>
     </message>
     <message>
-        <source>&lt;b&gt;digitalasset&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Digitalasset&lt;/b&gt; version</source>
         <translation type="obsolete">数字资产币版本</translation>
     </message>
     <message>
-        <source>Copyright © 2016 The digitalasset developers</source>
+        <source>Copyright © 2016 The Digitalasset developers</source>
         <translation type="obsolete">版权所有 © 2016 数字资产币开发团队</translation>
     </message>
     <message>
@@ -575,11 +575,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="obsolete">正在为数据块建立索引...</translation>
     </message>
     <message>
-        <source>Send coins to a digitalasset address</source>
+        <source>Send coins to a Digitalasset address</source>
         <translation type="obsolete">发币给一个数字资产币地址</translation>
     </message>
     <message>
-        <source>Modify configuration options for digitalasset</source>
+        <source>Modify configuration options for Digitalasset</source>
         <translation type="obsolete">设置选项</translation>
     </message>
     <message>
@@ -613,7 +613,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>验证消息...</translation>
     </message>
     <message>
-        <source>digitalasset</source>
+        <source>Digitalasset</source>
         <translation type="obsolete">数字资产币</translation>
     </message>
     <message>
@@ -635,11 +635,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation type="obsolete">对钱包中的私钥加密</translation>
     </message>
     <message>
-        <source>Sign messages with your digitalasset addresses to prove you own them</source>
+        <source>Sign messages with your Digitalasset addresses to prove you own them</source>
         <translation type="obsolete">用数字资产币地址关联的私钥为消息签名，以证明您拥有这个数字资产币地址</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified digitalasset addresses</source>
+        <source>Verify messages to ensure they were signed with specified Digitalasset addresses</source>
         <translation type="obsolete">校验消息，确保该消息是由指定的数字资产币地址所有者签名的</translation>
     </message>
     <message>
@@ -674,11 +674,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>digitalasset client</source>
+        <source>Digitalasset client</source>
         <translation type="obsolete">数字资产币客户端</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to digitalasset network</source>
+        <source>%n active connection(s) to Digitalasset network</source>
         <translation type="obsolete">
             <numerusform>到数字资产币网络的连接共有%n条</numerusform>
         </translation>
@@ -796,7 +796,7 @@ Address: %4
         <translation>URI 处理</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid digitalasset address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Digitalasset address or malformed URI parameters.</source>
         <translation type="obsolete">URI无法解析！原因可能是数字资产币地址不正确，或者URI参数错误。</translation>
     </message>
     <message>
@@ -1157,7 +1157,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished">您输入的不是有效的数字资产币地址。</translation>
     </message>
     <message>
-        <source>The entered address &quot;%1&quot; is not a valid digitalasset address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Digitalasset address.</source>
         <translation type="obsolete">您输入的不是合法的数字资产币地址.</translation>
     </message>
     <message>
@@ -1174,8 +1174,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>GUIUtil::HelpMessageBox</name>
     <message>
-        <source>digitalasset-Qt</source>
-        <translation type="obsolete">digitalasset-Qt</translation>
+        <source>Digitalasset-Qt</source>
+        <translation type="obsolete">Digitalasset-Qt</translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+419"/>
@@ -1271,7 +1271,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>网络</translation>
     </message>
     <message>
-        <source>Automatically open the digitalasset client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Digitalasset client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="obsolete">自动在路由器中打开数字资产币端口。只有当您的路由器开启 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
@@ -1280,7 +1280,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>使用映射端口</translation>
     </message>
     <message>
-        <source>Connect to the digitalasset network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Digitalasset network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="obsolete">通过代理服务器连接数字资产币网络(例如：通过Tor连接)</translation>
     </message>
     <message>
@@ -1448,7 +1448,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>警告</translation>
     </message>
     <message>
-        <source>This setting will take effect after restarting digitalasset.</source>
+        <source>This setting will take effect after restarting Digitalasset.</source>
         <translation type="obsolete">需要重启客户端软件才能生效。</translation>
     </message>
     <message>
@@ -1465,7 +1465,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>表单</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the digitalasset network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Digitalasset network after a connection is established, but this process has not completed yet.</source>
         <translation type="obsolete">现在显示的消息可能是过期的. 在连接上数字资产币网络节点后，您的钱包将自动与网络同步，但是这个过程还没有完成.</translation>
     </message>
     <message>
@@ -1559,7 +1559,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>PaymentServer</name>
     <message>
-        <source>Cannot start digitalasset: click-to-pay handler</source>
+        <source>Cannot start Digitalasset: click-to-pay handler</source>
         <translation type="obsolete">暂时无法启动数字资产币：点击支付功能</translation>
     </message>
 </context>
@@ -1739,8 +1739,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished">显示数字资产币帮助消息，获得数字资产币命令行命令.</translation>
     </message>
     <message>
-        <source>Show the digitalasset-Qt help message to get a list with possible digitalasset command-line options.</source>
-        <translation type="obsolete">显示digitalasset命令行选项帮助信息</translation>
+        <source>Show the Digitalasset-Qt help message to get a list with possible Digitalasset command-line options.</source>
+        <translation type="obsolete">显示Digitalasset命令行选项帮助信息</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1758,11 +1758,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>创建时间</translation>
     </message>
     <message>
-        <source>digitalasset - Debug window</source>
+        <source>Digitalasset - Debug window</source>
         <translation type="obsolete">数字资产币 - 调试窗口</translation>
     </message>
     <message>
-        <source>digitalasset Core</source>
+        <source>Digitalasset Core</source>
         <translation type="obsolete">数字资产币核心</translation>
     </message>
     <message>
@@ -1771,7 +1771,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>调试日志文件</translation>
     </message>
     <message>
-        <source>Open the digitalasset debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Digitalasset debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="obsolete">打开当前目录中的调试日志文件。日志文件大的话可能要等上几秒钟。</translation>
     </message>
     <message>
@@ -1780,7 +1780,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>清空控制台</translation>
     </message>
     <message>
-        <source>Welcome to the digitalasset RPC console.</source>
+        <source>Welcome to the Digitalasset RPC console.</source>
         <translation type="obsolete">欢迎来到 RPC 控制台.</translation>
     </message>
     <message>
@@ -2039,7 +2039,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+262"/>
-        <source>WARNING: Invalid digitalasset address</source>
+        <source>WARNING: Invalid Digitalasset address</source>
         <translation type="unfinished">警告:无效的数字资产币地址</translation>
     </message>
     <message>
@@ -2209,7 +2209,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>复制当前签名至剪切板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this digitalasset address</source>
+        <source>Sign the message to prove you own this Digitalasset address</source>
         <translation type="obsolete">签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -2243,7 +2243,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="obsolete">用于签名消息的地址(例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified digitalasset address</source>
+        <source>Verify the message to ensure it was signed with the specified Digitalasset address</source>
         <translation type="obsolete">验证消息，确保消息是由指定的数字资产币地址签名过的。</translation>
     </message>
     <message>
@@ -2256,7 +2256,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>清空所有验证消息栏</translation>
     </message>
     <message>
-        <source>Enter a digitalasset address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Digitalasset address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="obsolete">请输入数字资产币地址 (例如: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -2265,7 +2265,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>单击“签名消息“产生签名。</translation>
     </message>
     <message>
-        <source>Enter digitalasset signature</source>
+        <source>Enter Digitalasset signature</source>
         <translation type="obsolete">输入数字资产币签名</translation>
     </message>
     <message>
@@ -2349,8 +2349,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>The digitalasset developers</source>
-        <translation type="obsolete">digitalasset-qt 客户端开发团队</translation>
+        <source>The Digitalasset developers</source>
+        <translation type="obsolete">Digitalasset-qt 客户端开发团队</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2912,7 +2912,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>digitalasset version</source>
+        <source>Digitalasset version</source>
         <translation type="obsolete">数字资产币版本</translation>
     </message>
     <message>
@@ -2921,8 +2921,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>使用：</translation>
     </message>
     <message>
-        <source>Send command to -server or digitalassetd</source>
-        <translation type="obsolete">发送命令到服务器或者 digitalassetd
+        <source>Send command to -server or Digitalassetd</source>
+        <translation type="obsolete">发送命令到服务器或者 Digitalassetd
 </translation>
     </message>
     <message>
@@ -2944,13 +2944,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 </translation>
     </message>
     <message>
-        <source>Specify configuration file (default: digitalasset.conf)</source>
-        <translation type="obsolete">指定配置文件 (默认为 digitalasset.conf)
+        <source>Specify configuration file (default: Digitalasset.conf)</source>
+        <translation type="obsolete">指定配置文件 (默认为 Digitalasset.conf)
 </translation>
     </message>
     <message>
-        <source>Specify pid file (default: digitalassetd.pid)</source>
-        <translation type="obsolete">指定 pid 文件 (默认为 digitalassetd.pid)
+        <source>Specify pid file (default: Digitalassetd.pid)</source>
+        <translation type="obsolete">指定 pid 文件 (默认为 Digitalassetd.pid)
 </translation>
     </message>
     <message>
@@ -3086,24 +3086,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=digitalassetrpc
+rpcuser=Digitalassetrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;digitalasset Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Digitalasset Alert&quot; admin@foo.com
 </source>
         <translation type="obsolete">%s, 您必须在配置文件设置rpcpassword:
  %s
 建议您使用下面的随机密码:
-rpcuser=digitalassetrpc
+rpcuser=Digitalassetrpc
 rpcpassword=%s
 (您无需记住此密码)
 用户名和密码 必! 须! 不一样。
 如果配置文件不存在，请自行建立一个只有所有者拥有只读权限的文件。
 推荐您开启提示通知以便收到错误通知，
-像这样: alertnotify=echo %%s | mail -s &quot;digitalasset Alert&quot; admin@foo.com
+像这样: alertnotify=echo %%s | mail -s &quot;Digitalasset Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3116,7 +3116,7 @@ rpcpassword=%s
         <translation type="obsolete">绑定指定的IP地址开始监听。IPv6地址请使用[host]:port 格式</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. digitalasset is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Digitalasset is probably already running.</source>
         <translation type="obsolete">无法给数据目录 %s上锁。本软件可能已经在运行。</translation>
     </message>
     <message>
@@ -3154,7 +3154,7 @@ rpcpassword=%s
         <translation type="obsolete">警告：显示的交易可能不正确！您需要升级客户端软件，或者网络上的其他节点需要升级。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong digitalasset will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Digitalasset will not work properly.</source>
         <translation type="obsolete">警告：请检查电脑的日期时间设置是否正确！时间错误可能会导致数字资产币客户端运行异常。</translation>
     </message>
     <message>
@@ -3348,8 +3348,8 @@ rpcpassword=%s
         <translation>为调试输出信息添加时间戳</translation>
     </message>
     <message>
-        <source>SSL options: (see the digitalasset Wiki for SSL setup instructions)</source>
-        <translation type="obsolete">SSL选项：(参见digitalasset Wiki关于SSL设置栏目)</translation>
+        <source>SSL options: (see the Digitalasset Wiki for SSL setup instructions)</source>
+        <translation type="obsolete">SSL选项：(参见Digitalasset Wiki关于SSL设置栏目)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3524,12 +3524,12 @@ rpcpassword=%s
         <translation>wallet.dat钱包文件加载错误：钱包损坏</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of digitalasset</source>
-        <translation type="obsolete">wallet.dat钱包文件加载错误：请升级到最新digitalasset客户端</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Digitalasset</source>
+        <translation type="obsolete">wallet.dat钱包文件加载错误：请升级到最新Digitalasset客户端</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart digitalasset to complete</source>
-        <translation type="obsolete">钱包文件需要重写：请退出并重新启动digitalasset客户端</translation>
+        <source>Wallet needed to be rewritten: restart Digitalasset to complete</source>
+        <translation type="obsolete">钱包文件需要重写：请退出并重新启动Digitalasset客户端</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3750,7 +3750,7 @@ rpcpassword=%s
         <translation>添加节点并与其保持连接</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. digitalasset is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Digitalasset is probably already running.</source>
         <translation type="obsolete">无法在本机绑定 %s 端口 . 数字资产币客户端软件可能已经在运行.</translation>
     </message>
     <message>

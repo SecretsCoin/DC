@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = digitalasset-qt
+TARGET = Digitalasset-qt
 VERSION = 1.0.0
 INCLUDEPATH += src src/json src/qt
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE BOOST_THREAD_PROVIDES_GENERIC_SHARED_MUTEX_ON_WIN __NO_SYSTEM_INCLUDES
@@ -285,7 +285,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
-TARGET = digitalasset-qt_test
+TARGET = Digitalasset-qt_test
 DEFINES += BITCOIN_QT_TEST
 }
 
@@ -365,7 +365,7 @@ macx:HEADERS += src/qt/macdockiconhandler.h
 macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
-macx:ICON = src/qt/res/icons/digitalasset.icns
+macx:ICON = src/qt/res/icons/Digitalasset.icns
 macx:TARGET = "Digitalasset-Qt"
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread

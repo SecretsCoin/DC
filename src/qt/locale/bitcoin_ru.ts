@@ -1965,7 +1965,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+257"/>
-        <source>WARNING: Invalid digitalasset address</source>
+        <source>WARNING: Invalid Digitalasset address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
