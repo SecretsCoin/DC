@@ -1,0 +1,9 @@
+Building Digitalasset
+
+See doc/readme-qt.rst for instructions on building Digitalasset QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Digitalasset.
+
+See doc/build-*.txt for instructions on building Digitalassetd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Digitalasset.
